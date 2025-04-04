@@ -8,19 +8,6 @@
 - 📍 Based in **Istanbul, Turkey**
 - 🌱 Currently working on **Flutter-based AI applications and data-driven projects**
 
-## 📌 Featured Projects
-### 🔥 Stress & Fatigue Detection via Facial Expression Recognition *(2024-2025)*
-- Developed a deep learning model using **transformers (ViT, BEiT)** for emotion detection.
-- Achieved superior accuracy compared to CNNs on the **FERPlus dataset**.
-- Implemented **data preprocessing, emotion analysis, and visualization techniques**.
-
-### 📖 Turkish Language Level Determination App *(Under Development)*
-- Designed a **Flutter-based language assessment application** integrating **AI & Firebase**.
-- Implementing a **VR-based metaverse** for immersive language learning experiences.
-
-### 📊 COVID-19 Impact on Workplace Productivity *(2024)*
-- Built a **Streamlit-based ML app** to analyze the pandemic’s effect on productivity.
-- Worked on **data preprocessing, model benchmarking, and interactive visualizations**.
 
 ## 🛠️ Skills & Technologies
 
