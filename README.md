@@ -13,14 +13,13 @@
 | Dart                  | Intermediate     | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
 | Python                | Medium           | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | C                     | Medium           | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
+| Java                  | Intermediate     | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) |
 | GIT                   | Intermediate     | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 | TensorFlow            | ML Framework     | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
 | PyTorch               | ML Framework     | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
 | AI Model Training     | Applied Skill    | 🧐 |
 | Streamlit             | Data App Framework | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
 | Firebase              | Backend/Database | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white) |
-| Web3                  | Blockchain       | 🚀 |
-| Blockchain            | Emerging Tech    | 🔐 |
 
 
 
