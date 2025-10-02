@@ -31,6 +31,8 @@
 ## 🚀 Pinned Projects
 | Project | Focus | Link |
 |---|---:|---|
+| YÖKDİL Quiz Master | Smart, portable YÖKDİL exam prep (Python, Tkinter, MVVM) | https://github.com/SehmusYakut/Yokdil-Quiz-Master |
+| Travel Assistance | Travel assistance web app with Google Maps & multi-language (Next.js, TS) | https://github.com/SehmusYakut/travel-assistance |
 | Bank | Java banking app (course project) | https://github.com/SehmusYakut/Bank |
 | Normalize-and-Process-Dataset | CEL dataset download & normalization (R) | https://github.com/SehmusYakut/Normalize-and-Process-Dataset |
 | Fourier-transform | Signal generation & Fourier synthesis (Python + tkinter) | https://github.com/SehmusYakut/Fourier-transform |
@@ -58,18 +60,17 @@
 ---
 
 ## 🤝 Collaborations
-- Contributor: Facial Stress & Fatigue Recognition (ICCSA 2025) — repo above.  
-- Contributor: AD MRI Classification (graduation / neuroimaging experiments) — repo above.
+- Contributor: Facial Stress & Fatigue Recognition (ICCSA 2025).  
+- Contributor: AD MRI Classification (neuroimaging experiments).
 
 ---
 
-## 🔧 Enabled Features (on this profile)
+## 🔧 Enabled Features
 - Live GitHub stats & top languages  
-- Contribution activity heatmap (ghchart)  
+- Contribution heatmap (ghchart)  
 - Streak & trophies badges  
 - Visitor counter  
-- Direct project links (public + collaborative repos)  
-- Publication DOI badge
+- Direct links to public & collaborative repos
 
 ---
 
