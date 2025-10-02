@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <img alt="Contribution graph" src="https://activity-graph.herokuapp.com/graph?username=SehmusYakut&theme=github" />
+  <img alt="Contribution graph" src="https://ghchart.rshah.org/SehmusYakut" />
   &nbsp;
   <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SehmusYakut&theme=tokyonight" />
   &nbsp;
@@ -65,7 +65,7 @@
 
 ## 🔧 Enabled Features (on this profile)
 - Live GitHub stats & top languages  
-- Contribution activity graph (daily heatmap)  
+- Contribution activity heatmap (ghchart)  
 - Streak & trophies badges  
 - Visitor counter  
 - Direct project links (public + collaborative repos)  
@@ -75,5 +75,3 @@
 
 ## 📬 Contact
 [GitHub](https://github.com/SehmusYakut) • [LinkedIn](https://www.linkedin.com/in/sehmus-yakut)
-
----
