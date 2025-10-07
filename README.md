@@ -9,7 +9,7 @@
 
 ---
 
-## 🔥 Live / Dynamic Overview
+
 <p align="left">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SehmusYakut&show_icons=true&count_private=true&theme=tokyonight" />
   &nbsp;
