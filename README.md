@@ -33,11 +33,10 @@
 |---|---:|---|
 | YÖKDİL Quiz Master | Smart, portable YÖKDİL exam prep (Python, Tkinter, MVVM) | https://github.com/SehmusYakut/Yokdil-Quiz-Master |
 | Travel Assistance | Travel assistance web app with Google Maps & multi-language (Next.js, TS) | https://github.com/SehmusYakut/travel-assistance |
-| Bank | Java banking app (course project) | https://github.com/SehmusYakut/Bank |
 | Normalize-and-Process-Dataset | CEL dataset download & normalization (R) | https://github.com/SehmusYakut/Normalize-and-Process-Dataset |
 | Fourier-transform | Signal generation & Fourier synthesis (Python + tkinter) | https://github.com/SehmusYakut/Fourier-transform |
-| Stress & Fatigue Recognition *(collab)* | Transformer/CNN emotion + fatigue detection (ICCSA 2025) | https://github.com/tahayf/Facial-Stress-and-Fatigue-Recognition-via-Emotion-Weighting-A-Deep-Learning-Approach |
-| AD MRI Classification *(collab)* | 3D MRI classification pipelines (ADNI experiments) | https://github.com/loghman-Orujov/Graduation_Project |
+| Stress & Fatigue Recognition | Transformer/CNN emotion + fatigue detection (ICCSA 2025) | https://github.com/tahayf/Facial-Stress-and-Fatigue-Recognition-via-Emotion-Weighting-A-Deep-Learning-Approach |
+| AD MRI Classification | 3D MRI classification pipelines (ADNI experiments) | https://github.com/loghman-Orujov/Graduation_Project |
 
 ---
 
