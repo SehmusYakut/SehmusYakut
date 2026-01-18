@@ -64,14 +64,6 @@
 
 ---
 
-## 🔧 Enabled Features
-- Live GitHub stats & top languages  
-- Contribution heatmap (ghchart)  
-- Streak & trophies badges  
-- Visitor counter  
-- Direct links to public & collaborative repos
-
----
 
 ## 📬 Contact
 [GitHub](https://github.com/SehmusYakut) • [LinkedIn](https://www.linkedin.com/in/sehmus-yakut)
