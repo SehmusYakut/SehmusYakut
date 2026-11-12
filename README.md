@@ -12,10 +12,10 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SehmusYakut&show_icons=true&count_private=true&theme=tokyonight" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SehmusYakut&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehmusYakut&layout=compact&theme=tokyonight" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehmusYakut&layout=compact&count_private=true&include_all_commits=true&cache_seconds=1800&theme=tokyonight" />
   </a>
 </p>
 
